@@ -8,7 +8,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 /*ELEMENTOS BASEL*/
+
 body {
     background: var(--preta);
     font-family: 'Times New Roman', Times, serif;
